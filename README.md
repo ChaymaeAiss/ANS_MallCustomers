@@ -13,7 +13,7 @@ Ce projet applique des techniques d'apprentissage non supervisé sur le dataset 
 
 ## 🛠️ Stack technique
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=flat&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0?style=flat)
