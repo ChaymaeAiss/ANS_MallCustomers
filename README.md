@@ -28,36 +28,6 @@ scikit-learn · umap-learn
 > Le notebook peut également être exécuté directement sur **Google Colab** — adapter simplement le chemin du dataset dans la cellule de chargement.
 
 
-<table>
-  <tr>
-    <td align="center"><b>Elbow Method</b></td>
-    <td align="center"><b>Silhouette Analysis</b></td>
-  </tr>
-  <tr>
-    <td><img src="figures/Elbow.png" width="350"/></td>
-    <td><img src="figures/Silhouette.png" width="350"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>K-Means (k=5)</b></td>
-    <td align="center"><b>DBSCAN</b></td>
-  </tr>
-  <tr>
-    <td><img src="figures/Km.png" width="350"/></td>
-    <td><img src="figures/DBSCAN.png" width="350"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>t-SNE</b></td>
-    <td align="center"><b>UMAP</b></td>
-  </tr>
-  <tr>
-    <td><img src="figures/TSNE.png" width="350"/></td>
-    <td><img src="figures/Umap.png" width="350"/></td>
-  </tr>
-</table>
-
----
-
-
 ## 📄 Dataset
 
 **Mall Customers Dataset** — disponible sur [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
